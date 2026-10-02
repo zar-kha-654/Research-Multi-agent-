@@ -1,4 +1,5 @@
 crewai==1.15.23
 crewai-tools==1.15.23
 groq==1.7.0
+litellm
 streamlit==1.64.0
